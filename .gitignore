@@ -1,0 +1,9 @@
+*.root
+*.pyc
+.local/*
+condor/*
+libCpp/splitFile
+libCpp/copyFile
+.DS_store
+*/.DS_storc
+*/tmp
